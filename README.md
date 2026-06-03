@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
+
+https://www.linkedin.com/in/neeraj-kiran-janakula-904643384/
+
 <p align="left">
 </p>
 
