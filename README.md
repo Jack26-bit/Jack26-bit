@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neeraj Kiran Janakula</h1>
+<h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">Exploring the intersection of Artificial Intelligence, Space Systems, Backend Engineering, and Quantitative Finance through research.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
